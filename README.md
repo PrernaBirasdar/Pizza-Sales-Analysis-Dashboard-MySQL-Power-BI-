@@ -123,13 +123,13 @@ The results of all SQL analyses are brought to life through two thoughtfully des
 
 ## Files Included
 
-- [pizza_sales.csv](pizza_sales.csv)  
+- [pizza_sales.csv](files/pizza_sales.csv)
   Complete transactional dataset containing all sales records.
 
-- [Pizza_Sales_SQL_Queries.sql](Pizza_Sales_SQL_Queries.sql)  
+- [Pizza_Sales_SQL_Queries.sql](files/Pizza_Sales_SQL_Queries.sql)
   All SQL queries for KPIs, metrics calculation, and business reporting.
 
-- [Problem_Statement_With_SQL_Queries.docx](Problem_Statement_With_SQL_Queries.docx)  
+- [Problem_Statement_With_SQL_Queries.docx](files/Problem_Statement_With_SQL_Queries.docx)  
   Document outlining the business questions and the analytic rationale.
 
 ---
@@ -146,10 +146,10 @@ The results of all SQL analyses are brought to life through two thoughtfully des
 Here are the two key dashboards from Power BI that summarize overall sales and best/worst performance trends:
 
 - **Main Sales Report Dashboard:**  
-  ![Sales Report](Sales_Report.png) 
+  ![Sales Report](files/Sales_Report.png) 
 
 - **Best & Worst Sellers Dashboard:**  
-  ![Best & Worst Sellers](Best&Worst_Sellers.png)
+  ![Best & Worst Sellers](files/Best&Worst_Sellers.png)
 
 
 ---
