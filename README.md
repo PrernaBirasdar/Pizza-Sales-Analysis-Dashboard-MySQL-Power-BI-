@@ -129,7 +129,7 @@ All results are showcased in Power BI dashboards, including:
 
 ## Project Visuals
 
-Here are the two key dashboards from Power BI that summarize best/worst performance and overall sales trends:
+Here are the two key dashboards from Power BI that summarize overall sales and best/worst performance trends:
 
 ![Sales Report Dashboard](Sales_Report.png)
 
