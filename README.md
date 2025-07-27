@@ -121,12 +121,6 @@ All results are showcased in Power BI dashboards, including:
 - [Problem_Statement_With_SQL_Queries.docx](Problem_Statement_With_SQL_Queries.docx)  
   Document outlining the business questions and the analytic rationale.
 
-- **Best & Worst Sellers Dashboard:**  
-  ![Best & Worst Sellers](Best&Worst_Sellers.png)
-
-- **Main Sales Report Dashboard:**  
-  ![Sales Report](Sales_Report.png) 
-
 ---
 
 ## Requirements
@@ -140,17 +134,19 @@ All results are showcased in Power BI dashboards, including:
 
 Here are the two key dashboards from Power BI that summarize overall sales and best/worst performance trends:
 
-![Sales Report Dashboard](Sales_Report.png)
+- **Main Sales Report Dashboard:**  
+  ![Sales Report](Sales_Report.png) 
 
-![Best & Worst Sellers Dashboard](Best&Worst_Sellers.png)
+- **Best & Worst Sellers Dashboard:**  
+  ![Best & Worst Sellers](Best&Worst_Sellers.png)
+
 
 ---
 
 ## Author
 
 - **Prerna Birasdar**  
-- Email: prernabirasdar506@gmail.com 
-- GitHub: [yourusername](https://github.com/yourusername)
+- Email: prernabirasdar506@gmail.com
 
 ---
 
