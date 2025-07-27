@@ -131,9 +131,9 @@ All results are showcased in Power BI dashboards, including:
 
 Here are the two key dashboards from Power BI that summarize best/worst performance and overall sales trends:
 
-![Best & Worst Sellers Dashboard](Best&Worst_Sellers.png)
-
 ![Sales Report Dashboard](Sales_Report.png)
+
+![Best & Worst Sellers Dashboard](Best&Worst_Sellers.png)
 
 ---
 
