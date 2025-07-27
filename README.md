@@ -102,11 +102,22 @@ A full transactional dataset of all pizza orders, with comprehensive product, or
 
 ## Visualizations
 
-All results are showcased in Power BI dashboards, including:
-- **Sales Trends:** Daily/weekly/monthly charts
-- **Revenue Distribution:** Category and size via donut/bar charts
-- **Performance Breakdown:** Top and bottom performer bar charts
-- **KPI Cards:** At-a-glance performance tracking
+The results of all SQL analyses are brought to life through two thoughtfully designed Power BI dashboards:
+
+- **Sales Trend Analytics:**  
+  Visuals track sales performance by day of week, by month, and across the entire year. These time-based charts (line/bar) instantly highlight peak sales periods like Fridays, Saturdays, and the busiest months (May & July), helping to guide marketing and operational planning.
+
+- **Product Performance Deep Dive:**  
+  Bar charts and ranking visuals clearly display the top 5 and bottom 5 pizzas based on revenue, quantity sold, and order frequency, enabling quick identification of best-sellers and underperformers.
+
+- **Category and Size Distribution:**  
+  Donut and waterfall/bar charts show revenue shares for each pizza category (e.g., Classic, Supreme, Veggie, Chicken) and size (e.g., Large, Medium, Regular). This breakdown provides actionable insight into customer preferences and key revenue drivers.
+
+- **KPI Cards and Summary Statistics:**  
+  Prominent KPI cards at the top of each dashboard provide at-a-glance views of total revenue, average order value, total pizzas sold, average pizzas per order, busiest days, and more.
+
+- **Dashboard Interactivity:**  
+  All dashboards allow for interactive filtering and exploration, empowering users to drill down by pizza type, size, or time period and gain even more granular business insights.
 
 ---
 
