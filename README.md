@@ -16,7 +16,6 @@ This repository showcases a full-stack sales analytics project for a pizza resta
 - [Requirements](#requirements)
 - [Project Visuals](#project-visuals)
 - [Author](#author)
-- [License](#license)
 
 ---
 
